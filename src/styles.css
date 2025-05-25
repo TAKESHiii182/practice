@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  background-color: aquamarine;
+}
+
+div {
+  text-align: center;
+}
+
+#btn {
+  border-radius: 10px;
+  background: #fff;
+  padding: 0 10px;
+  border: none;
+}
+
+#btn:hover {
+  background-color: #288382;
+  color: #fff;
+}
+
